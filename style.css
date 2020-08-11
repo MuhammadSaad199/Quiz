@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+#main{
+background-color: rgb(235, 28, 28);
+margin: 80px;
+padding: 20px;
+}
+
+p{
+    font-weight: bold;
+}
+
+.hed{
+    color: white;
+    text-align: center;
+}
+
+#result{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
